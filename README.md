@@ -5,12 +5,15 @@
 <a href="https://www.linkedin.com/in/luciasalamancalopez/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://instagram.com/losbocetosdelucia?igshid=YmMyMTA2M2Y=">
+<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 
 <br />
 
-Hi,I'm Lucía Salamanca🙌, recent graduate in Computer Science and Mathematics.❤
+Hi,I'm Lucía Salamanca🙌, recent graduate in Computer Science and Mathematics.
 
 
 
@@ -21,7 +24,7 @@ Hi,I'm Lucía Salamanca🙌, recent graduate in Computer Science and Mathematics
 - 💬 Ask me about anything , Would love to answer them. 
 - 🎭 I love culture, specially theatre. 
 - 🫂 I would love to help people with my work. 
-- ✨ I can draw too. [Instagram]()
+- ✨ I can draw too. [Instagram profile](https://instagram.com/losbocetosdelucia?igshid=YmMyMTA2M2Y=)
 
 
 
